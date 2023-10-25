@@ -4,6 +4,8 @@
 ![openzeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=for-the-badge)
 ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)
 
+[![built-with openzeppelin](https://img.shields.io/badge/built%20with-OpenZeppelin-3677FF)](https://docs.openzeppelin.com/)
+
 ## Se utilizo el entorno de desarrollo de Remix IDE
 
 Este repositorio contiene un conjunto de contratos inteligentes en Solidity que implementan el juego Tic-Tac-Toe en la cadena de bloques Ethereum. Los contratos utilizan varias bibliotecas e interfaces de OpenZeppelin, incluyendo ERC20, ERC721, Ownable, y la interfaz VRFCoordinatorV2 y VRFConsumerBaseV2 de Chainlink.
